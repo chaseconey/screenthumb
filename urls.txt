@@ -1,0 +1,16 @@
+google.com
+reddit.com
+digg.com
+theverge.com
+cnn.com
+foxnews.com
+bbc.uk
+whitehouse.gov
+theguardian.com
+wordpress.com
+twitch.tv
+ustream.com
+gmail.com
+youtube.com
+github.com
+todomvc.com

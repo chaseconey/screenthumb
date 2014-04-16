@@ -1,0 +1,18 @@
+{
+  "name": "screens",
+  "version": "0.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "gulp-image-resize": "~0.5.0",
+    "gulp": "~3.6.0",
+    "gulp-clean": "~0.2.4",
+    "gulp-imagemin": "~0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD"
+}
